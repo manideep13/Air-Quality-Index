@@ -1,6 +1,8 @@
 # Air-Quality-Index
 Air is what keeps humans alive. Monitoring it and understanding its quality is of immense importance to our well-being.
 
+![GitHub Logo](/Images/AQI Image.png)
+
 
 **Brief Description :**
 
