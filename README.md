@@ -18,6 +18,11 @@ Prediction of air quality is a challenging task because of the dynamic environme
 
 - Version control system : GitHub
 
+
+## Result
+
+![Results](Result.png)
+
 ## References
 
 [Data](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india)
